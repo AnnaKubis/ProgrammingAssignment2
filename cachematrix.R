@@ -1,7 +1,6 @@
 ## The function caches the inverse of the matrix. 
 ##It inserts the inverse of the matrix in some special cache. 
-##If the matrix inserted to the function already had its inverse in the cache, 
-##function just gets the inverse from the cache, instead of calculating it each time. 
+##If the matrix already had its inverse in the cache, function gets the inverse from the cache, instead of calculating. 
 
 
 ## function prepares the special type of matrix
